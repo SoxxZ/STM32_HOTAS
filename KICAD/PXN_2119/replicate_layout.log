@@ -1,0 +1,8 @@
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 278:Plugin executed on: 'linux'
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 279:Plugin executed with python version: '3.10.4 (main, Mar 23 2022, 23:05:40) [GCC 11.2.0]'
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 280:KiCad build version: (6.0.4)
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 281:Plugin version: 1.1.0
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 282:Frame repr: <wx._core.Frame object at 0x7f4f078c9510>
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 301:Preparing replicator with mouse-bite-1mm-slot as a reference
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+04-26 20:35:14 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint mouse-bite-1mm-slot does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
