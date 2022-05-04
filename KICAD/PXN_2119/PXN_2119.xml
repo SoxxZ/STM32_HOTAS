@@ -1,0 +1,1932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/soxxz/projetos/eletronica/HOTAS/KICAD/PXN_2119/PXN_2119.kicad_sch</source>
+    <date>Wed 27 Apr 2022 06:25:29 PM -03</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PXN_2119.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggeb4693cfd16d534cd</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="ggeb4693cfd16d534cd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>693ee0d5-3174-4c81-b7eb-9a375c195696</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggea2c5d49bc5dde298</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_4D7CDC59" description=""/>
+      <property name="EDA_id" value="ggea2c5d49bc5dde298"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4447549d-52e4-4765-99c2-f55ee6631f0f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggecc82bf2c2e22e605</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="ggecc82bf2c2e22e605"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ad39896-9de2-4264-a1c2-0254b30361ec</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge3a68d3ddabf48558</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="gge3a68d3ddabf48558"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff4082d9-0719-42ba-9fc0-7348c2ba9c96</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100uF</value>
+      <footprint>EasyEDA:CASE-C_6032</footprint>
+      <fields>
+        <field name="EDA_id">ggeddba3c46cf8b8e66</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_D82F4769" description=""/>
+      <property name="EDA_id" value="ggeddba3c46cf8b8e66"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7ba9185-e5ba-4b1f-8453-6a177ea0fdbe</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>330uF</value>
+      <footprint>EasyEDA:CASE-C_6032</footprint>
+      <fields>
+        <field name="EDA_id">ggeab4a8fe24fad9fe4</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_8ECD0163" description=""/>
+      <property name="EDA_id" value="ggeab4a8fe24fad9fe4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab3d0257-84d7-4bd0-a98a-54255c13d8d8</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge48d2dd422533522c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="gge48d2dd422533522c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8ef63bf-ffb6-43f9-9941-f6c40ead09d2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge80f3708378e3d903</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="gge80f3708378e3d903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a61abc26-8f09-4089-b97d-68d96dc63a03</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>20pF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge7ddfd2f632a8b17d</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_6DFE1BCC" description=""/>
+      <property name="EDA_id" value="gge7ddfd2f632a8b17d"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c48c6e9-64d6-45f3-afad-d905af5415c5</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge3e75135af30e0f04</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="gge3e75135af30e0f04"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e820b55-836e-45f2-9130-32f1ae611143</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge20764de07767b3a1</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_263EFE02" description=""/>
+      <property name="EDA_id" value="gge20764de07767b3a1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24718062-4325-41ba-9d89-b7c2de160128</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>20pF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge26a39bcafcc8ce7c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_6DFE1BCC" description=""/>
+      <property name="EDA_id" value="gge26a39bcafcc8ce7c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e758fff-d9b6-4771-ab3c-e8ebf409c74f</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>20pF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggee7ba3aba9f9889c8</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_6DFE1BCC" description=""/>
+      <property name="EDA_id" value="ggee7ba3aba9f9889c8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d32ee400-bbc2-4bdd-8999-eba02b4961a3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>20pF</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge00361082df9d4549</field>
+      </fields>
+      <libsource lib="PXN_2119" part="C_6DFE1BCC" description=""/>
+      <property name="EDA_id" value="gge00361082df9d4549"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be691e4b-1870-47d2-b67f-d42657d0066b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS110-A</value>
+      <footprint>EasyEDA:SMA(DO-214AC)</footprint>
+      <fields>
+        <field name="EDA_id">gge6eb2f7ba7a12821c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="D_2B46C824" description=""/>
+      <property name="EDA_id" value="gge6eb2f7ba7a12821c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6abb2bd2-0662-4949-aa36-b0e9eb84d147</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>HDR-F-2.54_1x8</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">ggedef2ded090c87a1f</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_95801791" description=""/>
+      <property name="EDA_id" value="ggedef2ded090c87a1f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5af45c25-51d9-45af-945c-8febcc3bc013</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>HDR-F-2.54_1x8</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">gge14fe9a5a9310e700</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_95801791" description=""/>
+      <property name="EDA_id" value="gge14fe9a5a9310e700"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bbab508b-663c-48dc-8508-df297747a249</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>THR_CONN-T</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">gge55ead3938e4373d5</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_B9F31A90" description=""/>
+      <property name="EDA_id" value="gge55ead3938e4373d5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>218a3613-0c39-44b0-9090-fed27e35b048</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>HDR-F-2.54_1x8</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">gge75757b46d2f3001b</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_95801791" description=""/>
+      <property name="EDA_id" value="gge75757b46d2f3001b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7d056d4-15a6-4b6c-8743-3a4c5c105a0c</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>ADC_S</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X2</footprint>
+      <fields>
+        <field name="EDA_id">gge98fcd1426460d498</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_B9F13A22" description=""/>
+      <property name="EDA_id" value="gge98fcd1426460d498"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce0c8e63-1948-4c82-996e-e9fd727f2296</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>HDR-F-2.54_1x3</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X3</footprint>
+      <fields>
+        <field name="EDA_id">gge8350c32537df05d6</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_34B15804" description=""/>
+      <property name="EDA_id" value="gge8350c32537df05d6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a399bca7-0b48-4b38-878b-a5055243174b</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>GND_BAR-S</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X6</footprint>
+      <fields>
+        <field name="EDA_id">gge27227a641ca39b4c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_950710EC" description=""/>
+      <property name="EDA_id" value="gge27227a641ca39b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0beab9e6-3fb2-4614-a9ac-08f8ed0a838e</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>GND_BAR-T</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X6</footprint>
+      <fields>
+        <field name="EDA_id">ggecaeff4d2e7755835</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_950710EC" description=""/>
+      <property name="EDA_id" value="ggecaeff4d2e7755835"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08bbbb7a-06b8-4489-af4d-c35515af960d</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>THR_CONN-S</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">gge2898144590a77282</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_B9F31A90" description=""/>
+      <property name="EDA_id" value="gge2898144590a77282"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1361497b-08b1-4d5c-a43c-859b763baa16</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>HDR-F-2.54_1x8</value>
+      <footprint>EasyEDA:HDR-F-2.54_1X8</footprint>
+      <fields>
+        <field name="EDA_id">gge2ed2bebccb018b5e</field>
+      </fields>
+      <libsource lib="PXN_2119" part="H_95801791" description=""/>
+      <property name="EDA_id" value="gge2ed2bebccb018b5e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e29157c-0fd5-4abc-9ae3-8873990693d5</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>KT-0603R</value>
+      <footprint>EasyEDA:LED0603-R-RD</footprint>
+      <fields>
+        <field name="EDA_id">gge0c06f4abbddd066f</field>
+      </fields>
+      <libsource lib="PXN_2119" part="LED_F19357DB" description=""/>
+      <property name="EDA_id" value="gge0c06f4abbddd066f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b9b1a30-db37-4a0a-88a3-62e651a31582</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>KT-0603R</value>
+      <footprint>EasyEDA:LED0603-R-RD</footprint>
+      <fields>
+        <field name="EDA_id">gge833f13428fa216c0</field>
+      </fields>
+      <libsource lib="PXN_2119" part="LED_F19357DB" description=""/>
+      <property name="EDA_id" value="gge833f13428fa216c0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87018f61-d0c6-46a0-ab0e-c66f2763edee</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>HDR-IDC-2.54-2X3P</value>
+      <footprint>EasyEDA:HEADER-2.54-P2x3</footprint>
+      <fields>
+        <field name="EDA_id">ggec39ee3c861a7b382</field>
+      </fields>
+      <libsource lib="PXN_2119" part="P_A5913E26" description=""/>
+      <property name="EDA_id" value="ggec39ee3c861a7b382"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac9050f0-3840-4cb3-8ab8-52d6a7406dac</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>SWD</value>
+      <footprint>EasyEDA:HEADER-2.54-P4-ANG</footprint>
+      <fields>
+        <field name="EDA_id">gge16cbebb8866e1842</field>
+      </fields>
+      <libsource lib="PXN_2119" part="P_114F6EAD" description=""/>
+      <property name="EDA_id" value="gge16cbebb8866e1842"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cc6a47c-2c76-4714-b72c-3acdbb2e0ac2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>510</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge353b166cc2dee846</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_26C29E41" description=""/>
+      <property name="EDA_id" value="gge353b166cc2dee846"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6b3b334-232f-4966-8aa0-8f2a37b93241</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge6f63fc6711cfa315</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge6f63fc6711cfa315"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cfa9ea0-70c7-4ba8-ae80-0f85f0b8f489</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggefe89d0632cfce75f</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_789628BA" description=""/>
+      <property name="EDA_id" value="ggefe89d0632cfce75f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>045be70a-c062-4c01-97f0-81e39d32f907</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggefdc86a4b576d9e98</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_789628BA" description=""/>
+      <property name="EDA_id" value="ggefdc86a4b576d9e98"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0fe67da-e641-4d68-9be3-f59538161b2a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>510</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge9cdd622c9eeecfe7</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_26C29E41" description=""/>
+      <property name="EDA_id" value="gge9cdd622c9eeecfe7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79b5d252-c4e8-4f65-baa2-024a773b90cd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1M</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggee06ccd13940482ac</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggee06ccd13940482ac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc4b47ef-0012-45d1-8bd7-2268a5d7fec9</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggeba2c6d155e7fd301</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggeba2c6d155e7fd301"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da9db619-603c-4ad5-8bfb-b82ffb1ee0b2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge86d447fa2a9c8586</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge86d447fa2a9c8586"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>655a7acd-6fda-4416-9700-2d4152dc5a36</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>20</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge1e1ffada38203b9e</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_26C29E41" description=""/>
+      <property name="EDA_id" value="gge1e1ffada38203b9e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>656287b9-5b14-4b20-a2c8-466142714135</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>1.5K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge41bc0941336b1513</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_A8A8DA64" description=""/>
+      <property name="EDA_id" value="gge41bc0941336b1513"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c4b9c60-e681-46ef-921f-4c7094f7c863</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>20</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge763cf8d5648cb4fd</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_26C29E41" description=""/>
+      <property name="EDA_id" value="gge763cf8d5648cb4fd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e5c82e3-116b-4d87-84dc-0363925a4585</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge1128dc45883326b8</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge1128dc45883326b8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>475d8f4b-ae5e-4e01-9f11-a08f2d2335fc</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge9b501d8dc276617a</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge9b501d8dc276617a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaa462bd-d944-4854-b4d5-e81739a1f276</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge9cf60d7501414032</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge9cf60d7501414032"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a5984a9-bd6b-4b39-879d-6fa00a7d461f</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge3559b6b14c2c2816</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge3559b6b14c2c2816"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1904df60-fe29-4ce4-bf35-cf2e4d4cfa12</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggebb97523cd58d3583</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggebb97523cd58d3583"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6b8e495-306c-4d7b-9a65-225ef4a5ff3c</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge0b0aade4ca310f55</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge0b0aade4ca310f55"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35f4ace7-88b0-4b89-ae7b-23ed197629d4</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge920f12e091d50c1d</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge920f12e091d50c1d"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3f2c98b-1a6d-4935-8961-103c8ab33240</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge30f7c226dd76ab4a</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge30f7c226dd76ab4a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc791ed-f317-4657-b818-03f0e7a02a44</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge0bfde939d004219c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge0bfde939d004219c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54dfb318-f4ef-4837-8144-9d7bfc978770</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge36b413568856e8d3</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge36b413568856e8d3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86f1e27d-f57b-49d9-b5c7-2690993bea1b</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge39239029c74b5300</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge39239029c74b5300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e319fb5-70c1-4224-89b8-af74e5bc2197</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggecddae8f55ac1652b</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggecddae8f55ac1652b"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb300741-7b5c-48f7-b1a3-c247d6a38f10</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggec50a35a339f7900a</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggec50a35a339f7900a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42095c9b-5c2a-4376-af8e-d573cabfdd10</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge1d18edda0b170626</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge1d18edda0b170626"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa74a198-0495-4c9a-941f-dd8edd6756a9</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge4654c1c245405700</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge4654c1c245405700"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7466b561-b488-4663-831f-6340a8cf65f3</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge63496b1644465e46</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge63496b1644465e46"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e93939c6-348e-4690-83dc-1cb77d898396</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge96075497c6fe4a06</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge96075497c6fe4a06"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d20907a2-be43-44dc-be15-f403812d0ae1</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge0b9bee2708a6cd37</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge0b9bee2708a6cd37"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3426f33d-a945-480d-8cb4-10af410f8eca</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge254289bd17c736e5</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge254289bd17c736e5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16a9e8a8-75fd-4c76-aeef-054c17bffe2e</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge9350fe7298be3177</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge9350fe7298be3177"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbc130e8-97e2-411e-8c15-3438d6ee4171</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge21d9d257cecda27e</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge21d9d257cecda27e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e0fc5f8-3029-4eae-8db9-0b76a071994d</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggea62f80e93f98956c</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggea62f80e93f98956c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c536f9-9ab8-4a67-94e9-8bee255d55ce</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge95b5e3f4de0f174d</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge95b5e3f4de0f174d"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59caddbb-eef8-4e9e-83c8-6d7b1a41cc67</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge3979d74227377db7</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge3979d74227377db7"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a8ce02a-c119-4c43-bd31-64f3ed0945b3</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge1188b607d58f4db9</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge1188b607d58f4db9"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>764a4146-7ba8-4eec-b4c9-22c5c7d8fd5d</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge43bdc2569f3e9286</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge43bdc2569f3e9286"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>917dd1e6-424b-463b-82af-d9d16012fb6f</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge168b59d86c75ef20</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge168b59d86c75ef20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b928745-3b6f-47f2-b0bd-51841966ca25</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggeb9d5615704bae21e</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggeb9d5615704bae21e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6973f49b-f1a4-4363-9b44-17817132133d</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge3cde182bc0cea3b0</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge3cde182bc0cea3b0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>373adc8c-03c5-4c76-87ff-6d8b1a39def7</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggecf9b4b3550715975</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggecf9b4b3550715975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b216a67-f61a-4202-91c4-4edb491627e8</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">ggeda241415c496b396</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="ggeda241415c496b396"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c74fd86-db9d-455e-9dad-3513b1947188</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>10K</value>
+      <footprint>EasyEDA:0603_1608METRIC_PAD1.05X0.95MM_HANDSOLDER</footprint>
+      <fields>
+        <field name="EDA_id">gge41236d55a2c104a6</field>
+      </fields>
+      <libsource lib="PXN_2119" part="R_9356CC7C" description=""/>
+      <property name="EDA_id" value="gge41236d55a2c104a6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44a5a026-ccc1-4eb1-ae4d-2d8de1a57581</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>TS-1187A-B-A-B</value>
+      <footprint>EasyEDA:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2</footprint>
+      <fields>
+        <field name="EDA_id">gge4bb9d87f64e44779</field>
+      </fields>
+      <libsource lib="PXN_2119" part="SW_9ECE64AC" description=""/>
+      <property name="EDA_id" value="gge4bb9d87f64e44779"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2cb38d0-435b-4088-b891-c428f5be0444</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>SN74HC165N</value>
+      <footprint>EasyEDA:DIP-16_L19.8-W6.5-P2.54-LS7.6-BL</footprint>
+      <fields>
+        <field name="EDA_id">gge2fa0654fdb2bd4ea</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_82BF74D1" description=""/>
+      <property name="EDA_id" value="gge2fa0654fdb2bd4ea"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87aff099-138b-48c2-88dd-4b2def7c4ce7</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>Micro USB-B 5P_C40942</value>
+      <footprint>EasyEDA:USB-MICROB</footprint>
+      <fields>
+        <field name="EDA_id">gge66797bcd97f4f6c2</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_B8969F45" description=""/>
+      <property name="EDA_id" value="gge66797bcd97f4f6c2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>309548b2-e444-4e31-9812-31e32dc124ea</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>SN74HC165N</value>
+      <footprint>EasyEDA:DIP-16_L19.8-W6.5-P2.54-LS7.6-BL</footprint>
+      <fields>
+        <field name="EDA_id">gge6aaa07d98fcf9e60</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_82BF74D1" description=""/>
+      <property name="EDA_id" value="gge6aaa07d98fcf9e60"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7621310-b7bd-49f9-9e9c-48537f1b2162</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>SN74HC165N</value>
+      <footprint>EasyEDA:DIP-16_L19.8-W6.5-P2.54-LS7.6-BL</footprint>
+      <fields>
+        <field name="EDA_id">gge0561cb278cb0cc9f</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_82BF74D1" description=""/>
+      <property name="EDA_id" value="gge0561cb278cb0cc9f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11ad34a0-578f-415f-8f89-77d9f9e60987</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>SN74HC165N</value>
+      <footprint>EasyEDA:DIP-16_L19.8-W6.5-P2.54-LS7.6-BL</footprint>
+      <fields>
+        <field name="EDA_id">gge1e3777c76e93559e</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_82BF74D1" description=""/>
+      <property name="EDA_id" value="gge1e3777c76e93559e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96f27850-88db-4a98-a3fd-ddf06b9aa297</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>STM32F103C8T6</value>
+      <footprint>EasyEDA:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL</footprint>
+      <fields>
+        <field name="EDA_id">gged8680953c5875185</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_CBB370C0" description=""/>
+      <property name="EDA_id" value="gged8680953c5875185"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57b6b2dd-7457-4e91-8191-4961d7278b8a</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>AMS1117-3.3</value>
+      <footprint>EasyEDA:SOT-223</footprint>
+      <fields>
+        <field name="EDA_id">gge484e3008dca2bfa8</field>
+      </fields>
+      <libsource lib="PXN_2119" part="U_C8B6D7CC" description=""/>
+      <property name="EDA_id" value="gge484e3008dca2bfa8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>306bce5e-07c5-48e3-b1db-7006e501c9d3</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>8MHz</value>
+      <footprint>EasyEDA:CRYSTAL-SMD_L11.5-W4.8-LS12.7</footprint>
+      <fields>
+        <field name="EDA_id">gge69939efaac75c2f0</field>
+      </fields>
+      <libsource lib="PXN_2119" part="X_D8D91864" description=""/>
+      <property name="EDA_id" value="gge69939efaac75c2f0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6589d23-022e-4801-b6c4-f6406366bede</tstamps>
+    </comp>
+    <comp ref="X3">
+      <value>32.768kHz</value>
+      <footprint>EasyEDA:FC-135R_L3.2-W1.5</footprint>
+      <fields>
+        <field name="EDA_id">gge0a9263e708fc0155</field>
+      </fields>
+      <libsource lib="PXN_2119" part="X_6BEF10E1" description=""/>
+      <property name="EDA_id" value="gge0a9263e708fc0155"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PXN_2119.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e7607c1-e5fc-4757-b4ee-d7e830d3a553</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="PXN_2119" part="C_263EFE02">
+      <fields>
+        <field name="Reference">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="C_4D7CDC59">
+      <fields>
+        <field name="Reference">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="C_6DFE1BCC">
+      <fields>
+        <field name="Reference">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="C_8ECD0163">
+      <fields>
+        <field name="Reference">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="C_D82F4769">
+      <fields>
+        <field name="Reference">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="D_2B46C824">
+      <fields>
+        <field name="Reference">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="H_34B15804">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="H_950710EC">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+        <pin num="4" name="4" type="input"/>
+        <pin num="5" name="5" type="input"/>
+        <pin num="6" name="6" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="H_95801791">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="H_B9F13A22">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="H_B9F31A90">
+      <fields>
+        <field name="Reference">H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="LED_F19357DB">
+      <fields>
+        <field name="Reference">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="P_114F6EAD">
+      <fields>
+        <field name="Reference">P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="P_A5913E26">
+      <fields>
+        <field name="Reference">P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="R_26C29E41">
+      <fields>
+        <field name="Reference">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="R_789628BA">
+      <fields>
+        <field name="Reference">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="R_9356CC7C">
+      <fields>
+        <field name="Reference">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="R_A8A8DA64">
+      <fields>
+        <field name="Reference">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="SW_9ECE64AC">
+      <fields>
+        <field name="Reference">SW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="U_82BF74D1">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SH/LD#" type="passive"/>
+        <pin num="2" name="CLK" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+        <pin num="4" name="F" type="passive"/>
+        <pin num="5" name="G" type="passive"/>
+        <pin num="6" name="H" type="passive"/>
+        <pin num="7" name="QH#" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+        <pin num="9" name="QH" type="passive"/>
+        <pin num="10" name="SER" type="passive"/>
+        <pin num="11" name="A" type="passive"/>
+        <pin num="12" name="B" type="passive"/>
+        <pin num="13" name="C" type="passive"/>
+        <pin num="14" name="D" type="passive"/>
+        <pin num="15" name="CLK/INH" type="passive"/>
+        <pin num="16" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="U_B8969F45">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="D-" type="input"/>
+        <pin num="3" name="D+" type="input"/>
+        <pin num="4" name="ID" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="U_C8B6D7CC">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="Out" type="passive"/>
+        <pin num="3" name="In" type="passive"/>
+        <pin num="4" name="TAB" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="U_CBB370C0">
+      <fields>
+        <field name="Reference">U</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="passive"/>
+        <pin num="2" name="PC13-TAMPER-RTC" type="passive"/>
+        <pin num="3" name="PC14-OSC32_IN" type="passive"/>
+        <pin num="4" name="PC15-OSC32_OUT" type="passive"/>
+        <pin num="5" name="PD0-OSC_IN" type="passive"/>
+        <pin num="6" name="PD1-OSC_OUT" type="passive"/>
+        <pin num="7" name="NRST" type="passive"/>
+        <pin num="8" name="VSSA" type="passive"/>
+        <pin num="9" name="VDDA" type="passive"/>
+        <pin num="10" name="PA0-WKUP" type="passive"/>
+        <pin num="11" name="PA1" type="passive"/>
+        <pin num="12" name="PA2" type="passive"/>
+        <pin num="13" name="PA3" type="passive"/>
+        <pin num="14" name="PA4" type="passive"/>
+        <pin num="15" name="PA5" type="passive"/>
+        <pin num="16" name="PA6" type="passive"/>
+        <pin num="17" name="PA7" type="passive"/>
+        <pin num="18" name="PB0" type="passive"/>
+        <pin num="19" name="PB1" type="passive"/>
+        <pin num="20" name="PB2" type="passive"/>
+        <pin num="21" name="PB10" type="passive"/>
+        <pin num="22" name="PB11" type="passive"/>
+        <pin num="23" name="VSS_1" type="passive"/>
+        <pin num="24" name="VDD_1" type="passive"/>
+        <pin num="25" name="PB12" type="passive"/>
+        <pin num="26" name="PB13" type="passive"/>
+        <pin num="27" name="PB14" type="passive"/>
+        <pin num="28" name="PB15" type="passive"/>
+        <pin num="29" name="PA8" type="passive"/>
+        <pin num="30" name="PA9" type="passive"/>
+        <pin num="31" name="PA10" type="passive"/>
+        <pin num="32" name="PA11" type="passive"/>
+        <pin num="33" name="PA12" type="passive"/>
+        <pin num="34" name="PA13" type="passive"/>
+        <pin num="35" name="VSS_2" type="passive"/>
+        <pin num="36" name="VDD_2" type="passive"/>
+        <pin num="37" name="PA14" type="passive"/>
+        <pin num="38" name="PA15" type="passive"/>
+        <pin num="39" name="PB3" type="passive"/>
+        <pin num="40" name="PB4" type="passive"/>
+        <pin num="41" name="PB5" type="passive"/>
+        <pin num="42" name="PB6" type="passive"/>
+        <pin num="43" name="PB7" type="passive"/>
+        <pin num="44" name="BOOT0" type="passive"/>
+        <pin num="45" name="PB8" type="passive"/>
+        <pin num="46" name="PB9" type="passive"/>
+        <pin num="47" name="VSS_3" type="passive"/>
+        <pin num="48" name="VDD_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="X_6BEF10E1">
+      <fields>
+        <field name="Reference">X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PXN_2119" part="X_D8D91864">
+      <fields>
+        <field name="Reference">X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OSC1" type="input"/>
+        <pin num="2" name="OSC2" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="2" name="/VCC_THR">
+      <node ref="H3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R29" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R30" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R32" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R33" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R34" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R35" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R36" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R37" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R38" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R39" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R40" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R41" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R42" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R43" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U5" pin="16" pinfunction="VCC" pintype="passive"/>
+      <node ref="U6" pin="16" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="3" name="BOOT0">
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="44" pinfunction="BOOT0" pintype="passive"/>
+    </net>
+    <net code="4" name="BOOT1">
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="20" pinfunction="PB2" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="H3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="H7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H7" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="H7" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="H7" pin="4" pinfunction="4" pintype="input"/>
+      <node ref="H7" pin="5" pinfunction="5" pintype="input"/>
+      <node ref="H7" pin="6" pinfunction="6" pintype="input"/>
+      <node ref="H8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H8" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="H8" pin="3" pinfunction="3" pintype="input"/>
+      <node ref="H8" pin="4" pinfunction="4" pintype="input"/>
+      <node ref="H8" pin="5" pinfunction="5" pintype="input"/>
+      <node ref="H8" pin="6" pinfunction="6" pintype="input"/>
+      <node ref="H9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="P2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="CLK/INH" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="ID" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="15" pinfunction="CLK/INH" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="15" pinfunction="CLK/INH" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U6" pin="15" pinfunction="CLK/INH" pintype="passive"/>
+      <node ref="U6" pin="8" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="23" pinfunction="VSS_1" pintype="passive"/>
+      <node ref="U7" pin="35" pinfunction="VSS_2" pintype="passive"/>
+      <node ref="U7" pin="47" pinfunction="VSS_3" pintype="passive"/>
+      <node ref="U7" pin="8" pinfunction="VSSA" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(H1-Pad1)">
+      <node ref="H1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R40" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="14" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(H1-Pad2)">
+      <node ref="H1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R41" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="13" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(H1-Pad3)">
+      <node ref="H1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R42" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(H1-Pad4)">
+      <node ref="H1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R43" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="11" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(H1-Pad5)">
+      <node ref="H1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R36" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="H" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(H1-Pad6)">
+      <node ref="H1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R37" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(H1-Pad7)">
+      <node ref="H1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R38" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="F" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(H1-Pad8)">
+      <node ref="H1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R39" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(H2-Pad1)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R32" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="14" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(H2-Pad2)">
+      <node ref="H2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R33" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="13" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(H2-Pad3)">
+      <node ref="H2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R34" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(H2-Pad4)">
+      <node ref="H2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R35" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="11" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(H2-Pad5)">
+      <node ref="H2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="H" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(H2-Pad6)">
+      <node ref="H2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R29" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(H2-Pad7)">
+      <node ref="H2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R30" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="F" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(H2-Pad8)">
+      <node ref="H2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R31" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(H3-Pad3)">
+      <node ref="H3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="CLK" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="CLK" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(H3-Pad4)">
+      <node ref="H3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="QH" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(H3-Pad5)">
+      <node ref="H3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="SH/LD#" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="SH/LD#" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(H3-Pad6)">
+      <node ref="H3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(H3-Pad7)">
+      <node ref="H3" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="H6" pin="2" pinfunction="2" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(H3-Pad8)">
+      <node ref="H3" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="H6" pin="3" pinfunction="3" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(H4-Pad1)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="14" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(H4-Pad2)">
+      <node ref="H4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="13" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(H4-Pad3)">
+      <node ref="H4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(H4-Pad4)">
+      <node ref="H4" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="11" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(H4-Pad5)">
+      <node ref="H4" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="H" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(H4-Pad6)">
+      <node ref="H4" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(H4-Pad7)">
+      <node ref="H4" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="F" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(H4-Pad8)">
+      <node ref="H4" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R16" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(H10-Pad1)">
+      <node ref="H10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R23" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="14" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(H10-Pad2)">
+      <node ref="H10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R22" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="13" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(H10-Pad3)">
+      <node ref="H10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R21" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(H10-Pad4)">
+      <node ref="H10" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R20" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="11" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(H10-Pad5)">
+      <node ref="H10" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="R27" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="H" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(H10-Pad6)">
+      <node ref="H10" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R26" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="5" pinfunction="G" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(H10-Pad7)">
+      <node ref="H10" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="F" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(H10-Pad8)">
+      <node ref="H10" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(P1-Pad3)">
+      <node ref="P1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(P1-Pad4)">
+      <node ref="P1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="D-" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="D+" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="QH" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="SER" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(U5-Pad10)">
+      <node ref="U5" pin="10" pinfunction="SER" pintype="passive"/>
+      <node ref="U6" pin="9" pinfunction="QH" pintype="passive"/>
+    </net>
+    <net code="53" name="OSCIN">
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="PD0-OSC_IN" pintype="passive"/>
+      <node ref="X2" pin="1" pinfunction="OSC1" pintype="input"/>
+    </net>
+    <net code="54" name="OSCOUT">
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="PD1-OSC_OUT" pintype="passive"/>
+      <node ref="X2" pin="2" pinfunction="OSC2" pintype="input"/>
+    </net>
+    <net code="55" name="PA0">
+      <node ref="U7" pin="10" pinfunction="PA0-WKUP" pintype="passive"/>
+    </net>
+    <net code="56" name="PA1">
+      <node ref="U7" pin="11" pinfunction="PA1" pintype="passive"/>
+    </net>
+    <net code="57" name="PA2">
+      <node ref="U7" pin="12" pinfunction="PA2" pintype="passive"/>
+    </net>
+    <net code="58" name="PA3">
+      <node ref="U7" pin="13" pinfunction="PA3" pintype="passive"/>
+    </net>
+    <net code="59" name="PA4">
+      <node ref="U7" pin="14" pinfunction="PA4" pintype="passive"/>
+    </net>
+    <net code="60" name="PA5">
+      <node ref="U7" pin="15" pinfunction="PA5" pintype="passive"/>
+    </net>
+    <net code="61" name="PA6">
+      <node ref="U7" pin="16" pinfunction="PA6" pintype="passive"/>
+    </net>
+    <net code="62" name="PA7">
+      <node ref="U7" pin="17" pinfunction="PA7" pintype="passive"/>
+    </net>
+    <net code="63" name="PA8">
+      <node ref="H9" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U7" pin="29" pinfunction="PA8" pintype="passive"/>
+    </net>
+    <net code="64" name="PA9">
+      <node ref="H9" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U7" pin="30" pinfunction="PA9" pintype="passive"/>
+    </net>
+    <net code="65" name="PA10">
+      <node ref="H9" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U7" pin="31" pinfunction="PA10" pintype="passive"/>
+    </net>
+    <net code="66" name="PA11">
+      <node ref="R9" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="32" pinfunction="PA11" pintype="passive"/>
+    </net>
+    <net code="67" name="PA12">
+      <node ref="R10" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="33" pinfunction="PA12" pintype="passive"/>
+    </net>
+    <net code="68" name="PA15">
+      <node ref="U7" pin="38" pinfunction="PA15" pintype="passive"/>
+    </net>
+    <net code="69" name="PB0">
+      <node ref="U7" pin="18" pinfunction="PB0" pintype="passive"/>
+    </net>
+    <net code="70" name="PB1">
+      <node ref="U7" pin="19" pinfunction="PB1" pintype="passive"/>
+    </net>
+    <net code="71" name="PB3">
+      <node ref="U7" pin="39" pinfunction="PB3" pintype="passive"/>
+    </net>
+    <net code="72" name="PB4">
+      <node ref="U2" pin="2" pinfunction="CLK" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="CLK" pintype="passive"/>
+      <node ref="U7" pin="40" pinfunction="PB4" pintype="passive"/>
+    </net>
+    <net code="73" name="PB5">
+      <node ref="U4" pin="9" pinfunction="QH" pintype="passive"/>
+      <node ref="U7" pin="41" pinfunction="PB5" pintype="passive"/>
+    </net>
+    <net code="74" name="PB6">
+      <node ref="U2" pin="1" pinfunction="SH/LD#" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="SH/LD#" pintype="passive"/>
+      <node ref="U7" pin="42" pinfunction="PB6" pintype="passive"/>
+    </net>
+    <net code="75" name="PB7">
+      <node ref="H9" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U7" pin="43" pinfunction="PB7" pintype="passive"/>
+    </net>
+    <net code="76" name="PB8">
+      <node ref="H9" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U7" pin="45" pinfunction="PB8" pintype="passive"/>
+    </net>
+    <net code="77" name="PB9">
+      <node ref="H9" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U7" pin="46" pinfunction="PB9" pintype="passive"/>
+    </net>
+    <net code="78" name="PB10">
+      <node ref="H5" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="21" pinfunction="PB10" pintype="passive"/>
+    </net>
+    <net code="79" name="PB11">
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U7" pin="22" pinfunction="PB11" pintype="passive"/>
+    </net>
+    <net code="80" name="PB12">
+      <node ref="U7" pin="25" pinfunction="PB12" pintype="passive"/>
+    </net>
+    <net code="81" name="PB13">
+      <node ref="U7" pin="26" pinfunction="PB13" pintype="passive"/>
+    </net>
+    <net code="82" name="PB14">
+      <node ref="U7" pin="27" pinfunction="PB14" pintype="passive"/>
+    </net>
+    <net code="83" name="PB15">
+      <node ref="U7" pin="28" pinfunction="PB15" pintype="passive"/>
+    </net>
+    <net code="84" name="PC13">
+      <node ref="R5" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="PC13-TAMPER-RTC" pintype="passive"/>
+    </net>
+    <net code="85" name="PC14">
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="PC14-OSC32_IN" pintype="passive"/>
+      <node ref="X3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="86" name="PC15">
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="PC15-OSC32_OUT" pintype="passive"/>
+      <node ref="X3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="87" name="RESET">
+      <node ref="C2" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="NRST" pintype="passive"/>
+    </net>
+    <net code="88" name="SWCLK">
+      <node ref="P2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="37" pinfunction="PA14" pintype="passive"/>
+    </net>
+    <net code="89" name="SWDIO">
+      <node ref="P2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="U7" pin="34" pinfunction="PA13" pintype="passive"/>
+    </net>
+    <net code="90" name="VBAT">
+      <node ref="U7" pin="1" pinfunction="VBAT" pintype="passive"/>
+    </net>
+    <net code="91" name="VCC">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="H9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="LED4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R14" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R19" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R20" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R21" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R22" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R23" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R24" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R25" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R26" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R27" pin="2" pinfunction="2" pintype="input"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="16" pinfunction="VCC" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="VCC" pintype="passive"/>
+      <node ref="U7" pin="24" pinfunction="VDD_1" pintype="passive"/>
+      <node ref="U7" pin="36" pinfunction="VDD_2" pintype="passive"/>
+      <node ref="U7" pin="48" pinfunction="VDD_3" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="VDDA" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="Out" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="TAB" pintype="passive"/>
+    </net>
+    <net code="92" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="QH#" pintype="passive"/>
+    </net>
+    <net code="93" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="SER" pintype="passive"/>
+    </net>
+    <net code="94" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="QH#" pintype="passive"/>
+    </net>
+    <net code="95" name="unconnected-(U5-Pad7)">
+      <node ref="U5" pin="7" pinfunction="QH#" pintype="passive"/>
+    </net>
+    <net code="96" name="unconnected-(U6-Pad7)">
+      <node ref="U6" pin="7" pinfunction="QH#" pintype="passive"/>
+    </net>
+    <net code="97" name="unconnected-(U6-Pad10)">
+      <node ref="U6" pin="10" pinfunction="SER" pintype="passive"/>
+    </net>
+  </nets>
+</export>

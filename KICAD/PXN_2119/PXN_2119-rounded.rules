@@ -1,0 +1,88 @@
+
+(rules PCB PXN_2119-rounded
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (app.freerouting.autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 10)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 4.8)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.3)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    GND +5V BOOT0 BOOT1 "Net-(D1-Pad1)" "Net-(H1-Pad1)" "Net-(H1-Pad2)" "Net-(H1-Pad3)"
+    OSCIN OSCOUT "Net-(H1-Pad4)" "Net-(H1-Pad5)" PA0 PA1 PA10 PA11
+    PA12 PA15 PA2 PA3 PA4 PA5 PA6 PA7
+    PA8 PA9 PB0 PB1 PB10 PB11 PB12 PB13
+    PB14 PB15 PB3 PB4 PB5 PB6 PB7 PB8
+    PB9 PC13 PC14 PC15 "Net-(H1-Pad6)" "Net-(H1-Pad7)" "Net-(H1-Pad8)" "Net-(H2-Pad1)"
+    "Net-(H2-Pad2)" "Net-(H2-Pad3)" "Net-(H2-Pad4)" "Net-(H2-Pad5)" "Net-(H2-Pad6)" "Net-(H2-Pad7)" "Net-(H2-Pad8)" "Net-(H3-Pad3)"
+    "Net-(H3-Pad4)" "Net-(H3-Pad5)" "Net-(H3-Pad6)" "Net-(H3-Pad7)" "Net-(H3-Pad8)" "Net-(H4-Pad1)" RESET SWCLK
+    SWDIO "Net-(H4-Pad2)" "Net-(H4-Pad3)" "Net-(H4-Pad4)" "Net-(H4-Pad5)" "Net-(H4-Pad6)" "Net-(H4-Pad7)" "Net-(H4-Pad8)"
+    "Net-(H10-Pad1)" "Net-(H10-Pad2)" "Net-(H10-Pad3)" "Net-(H10-Pad4)" "Net-(H10-Pad5)" "Net-(H10-Pad6)" "Net-(H10-Pad7)" "Net-(H10-Pad8)"
+    "Net-(LED3-Pad2)" "Net-(LED4-Pad2)" "Net-(P1-Pad3)" "Net-(P1-Pad4)" "Net-(R9-Pad1)" "Net-(R11-Pad1)" "unconnected-(U2-Pad7)" "Net-(U2-Pad9)"
+    "unconnected-(U2-Pad10)" "unconnected-(U4-Pad7)" "unconnected-(U5-Pad7)" VBAT VCC "Net-(U5-Pad10)" "unconnected-(U6-Pad7)" "unconnected-(U6-Pad10)"
+    "/VCC_THR"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
